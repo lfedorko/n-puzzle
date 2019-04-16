@@ -1,6 +1,9 @@
-#3224 22
-# this is a comment
-300 #RFL;KER;
-3 2 6 #another comment
-1 4 0
-8 7 5
+# Puzzles can be aligned, or NOT. whatever. accept both.$
+#3
+4
+
+
+11 10 5 7
+11 14 4 8
+1 2 6 13
+12 3 15             9
